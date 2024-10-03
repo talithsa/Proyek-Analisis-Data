@@ -15,15 +15,3 @@ streamlit run dashboard.py
 ```
 Upload the dataset:
 Make sure you have the required datasets (hour.csv, day.csv, and all_data.csv) in the data/ directory. You can download or prepare these files as necessary.
-
-## Directory Structure
-submission/
-│
-├── data/
-│   ├── hour.csv
-│   └── day.csv
-|
-├── dashboard.py
-├── proyek_analisis_data.py
-├── requirements.txt
-└── README.md
